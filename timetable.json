@@ -1,0 +1,114 @@
+{
+    "lectures": {
+        "Monday": [
+            {
+                "lecture_id": "CS101",
+                "lecture_name": "Introduction to Computer Science",
+                "start_time": "11:33 AM",
+                "end_time": "11:34 AM"
+            },
+            {
+                "lecture_id": "CS102",
+                "lecture_name": "Data Structures",
+                "start_time": "12:53 PM",
+                "end_time": "12:54 PM"
+            },
+            {
+                "lecture_id": "CS103",
+                "lecture_name": "Database Management",
+                "start_time": "12:55 PM",
+                "end_time": "12:56 PM"
+            }
+        ],
+        "Tuesday": [
+            {
+                "lecture_id": "CS103",
+                "lecture_name": "Data Science",
+                "start_time": "11:17 PM",
+                "end_time": "11:18 PM"
+            },
+            {
+                "lecture_id": "CS104",
+                "lecture_name": "Machine Learning",
+                "start_time": "11:18 PM",
+                "end_time": "11:19 PM"
+            }
+        ],
+        "Wednesday": [
+            {
+                "lecture_id": "CS105",
+                "lecture_name": "Operating Systems",
+                "start_time": "03:42 PM",
+                "end_time": "03:43 PM"
+            },
+            {
+                "lecture_id": "CS106",
+                "lecture_name": "Computer Networks",
+                "start_time": "03:31 PM",
+                "end_time": "03:32 PM"
+            }
+        ],
+        "Thursday": [
+            {
+                "lecture_id": "CS107",
+                "lecture_name": "Database Systems",
+                "start_time": "09:51 AM",
+                "end_time": "09:52 AM"
+            },
+            {
+                "lecture_id": "CS108",
+                "lecture_name": "Artificial Intelligence",
+                "start_time": "09:52 AM",
+                "end_time": "09:53 AM"
+            }
+        ],
+        "Friday": [
+            {
+                "lecture_id": "CS108",
+                "lecture_name": "Artificial Intelligence",
+                "start_time": "01:18 PM",
+                "end_time": "01:19 PM"
+            },
+            {
+                "lecture_id": "CS109",
+                "lecture_name": "Cloud Computing",
+                "start_time": "01:19 PM",
+                "end_time": "01:20 PM"
+            }
+        ],
+        "Saturday": [
+            {
+                "lecture_id": "CS108",
+                "lecture_name": "Artificial Intelligence",
+                "start_time": "05:24 PM",
+                "end_time": "05:25 PM"
+            },
+            {
+                "lecture_id": "CS109",
+                "lecture_name": "Cloud Computing",
+                "start_time": "05:25 PM",
+                "end_time": "05:26 PM"
+            }
+        ],
+        "Sunday": [
+            {
+                "lecture_id": "CS108",
+                "lecture_name": "Artificial Intelligence",
+                "start_time": "3:30 PM",
+                "end_time": "3:31 PM"
+            },
+            {
+                "lecture_id": "CS109",
+                "lecture_name": "Cloud Computing",
+                "start_time": "3:31 PM",
+                "end_time": "3:32 PM"
+            },
+            {
+                "lecture_id": "CS110",
+                "lecture_name": "Maths engg",
+                "start_time": "3:32 PM",
+                "end_time": "3:33 PM"
+            }
+        ]
+    }
+}

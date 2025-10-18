@@ -4,50 +4,59 @@ Overview:
 The Face Recognition Based Attendance System is an automated solution designed to streamline attendance tracking in educational institutions using real-time face recognition technology.
 
 Features:
+
 Real-time face detection and recognition
+
 Automatic entry and exit time recording
 Multi-lecture attendance marking
+
 Excel report generation
+
 Dual mode operation (entry/exit)
 
 Installation:
+
 Prerequisites
+
 Python 3.9
+
 Anaconda Navigator
+
 Camera device
 
 Step-by-Step Installation:
+
 Create Conda Environment
 
 bash
+
 conda create -n FaceRecogAttendance python=3.9
+
 conda activate FaceRecogAttendance
+
 Install Dependencies
 
 bash
+
 conda install numpy pandas opencv
+
 pip install face_recognition openpyxl
+
 Clone Repository
 
 bash
+
 git clone https://github.com/MubeenAhemad/face-recognition-attendance-system.git
+
 cd face-recognition-attendance-system
+
 Project Structure
-text
-face-recognition-attendance-system/
-├── students/                 # Student images
-│   ├── Disha.jpg
-│   └── Roy.jpg
-├── output/                  # Attendance reports
-├── programs/               # Source code
-│   ├── attendance.py
-│   ├── face_recognition_utils.py
-│   ├── main.py
-│   └── utils.py
-├── timetable.json          # Lecture schedule
-└── requirements.txt        # Dependencies
+
+<img width="427" height="302" alt="image" src="https://github.com/user-attachments/assets/5e315756-7784-4337-aac9-b2187c262790" />
+
 
 Usage
+
 1. Setup Student Images,Output directories and Timetable
 Store student images in students/ folder
 Use filenames as student names: john.jpg
